@@ -1,0 +1,27 @@
+html {
+  text-align: center;
+  background-color: rgba(245, 245, 245, 0.39);
+}
+
+h1 {
+  margin: 40px auto;
+  width: 90%;
+  background-color: lightblue;
+}
+
+.contets {
+  width: 90%;
+}
+
+button {
+  height: 70px;
+  width: 20%;
+  margin: 10px 10px;
+  background-color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: tomato;
+}
